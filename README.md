@@ -2,3 +2,4 @@
 1. BTC
 2. ETH
 3. ADA
+4. DOGE
