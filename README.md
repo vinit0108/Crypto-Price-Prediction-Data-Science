@@ -3,3 +3,4 @@
 2. ETH
 3. ADA
 4. DOGE
+5. DOT
